@@ -20,3 +20,4 @@ Our model structure that we used was Dynamic Time Warping. We were able to get a
 In order to improve upon our work, we could add more microbits to get more training data. This would allow us to determine a more successful pushup. Any other hardware added would greatly improve this accuracy.
 
 # A link to a demo video
+https://youtu.be/Hs0ud9kMwpk
